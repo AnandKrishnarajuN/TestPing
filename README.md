@@ -1,1 +1,3 @@
 # TestPing
+
+Ping 1
